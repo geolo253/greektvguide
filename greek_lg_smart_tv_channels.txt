@@ -1,0 +1,119 @@
+group,ΠΑΝΕΛΛΑΔΙΚΑ
+NEPIT1.gr,ERT1,https://www.youtube.com/watch?v=VaviMC3KGtQ
+NEPIT1.gr,ERT1 BUP,mmsh://wpso.com:200/ert1
+NEPIT1.gr,ERT1 BUP 2,http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
+NEPITplus.gr,ERT2,https://www.youtube.com/watch?v=TyvdueFoCfA
+NEPITplus.gr,ERT2 BUP,http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
+EPT3.gr,ERT3,https://www.youtube.com/watch?v=TAPQISON4YM
+EPT3.gr,ERT3 BUP,mmsh://wpso.com:200/ert3
+mega.gr,MEGA,https://www.youtube.com/watch?v=2Y8qsS_xH2Y
+mega.gr,MEGA BUP,http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
+mega.gr,MEGA BUP 2,http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
+ANT1.gr,ANT1,http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+ANT1.gr,ANT1 BUP,http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
+ANT1.gr,ANT1 BUP 2,http://38.1402.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
+alpha.gr,ALPHA,http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
+alpha.gr,ALPHA BUP,http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
+star.gr,STAR,http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+star.gr,STAR BUP,http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
+star.gr,STAR BUP 2,http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
+Skai.gr,SKAI,https://www.youtube.com/watch?v=fknuPzSf3-I
+Skai.gr,SKAI BUP,http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
+ETV.gr,E,http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
+Skai.gr,E BUP,http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8
+Macedonia.gr,M.TV,http://stream.maktv.gr/i/live_1@332903/master.m3u8
+APT.gr,ART,https://www.youtube.com/watch?v=jCKr99Hz7TY
+ERTWorld.ca,ERT WORLD,https://www.youtube.com/watch?v=rdlulSBQPp8
+ERTWorld.ca,ERT WORLD BUP,rtmp://freeview.fms.visionip.tv:1935/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+vouli.gr,VOULI,http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+vouli.gr,VOULI BUP,mms://media19.internet.gr/ParliamentTV-HQ
+
+group,ΛΟΙΠΑ
+Euronews.gr,EURONEWS,rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
+EBS.us,EBS,http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
+ext,EBS PLUS,http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
+
+group,ΠΑΓΚΥΠΡΙΑ
+RikSat.gr,RIK SAT,rtmp://freeview.fms.visionip.tv:1935/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+RikSat.gr,RIK SAT BUP,rtmp://freeview.fms.visionip.tv:1935/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+ant1iwo.com,ANT1 CY,http://l2.cloudskep.com/antl2/abr/playlist.m3u8
+alphacyprus.com.cy,ALPHA KYPROY,https://www.youtube.com/watch?v=0khKa0_RnXk
+sigmatv.com,SIGMA CY,http://81.21.47.74/hls/live.m3u8
+
+group,ΠΕΡΙΦΕΡΕΙΑΚΑ
+Sbc.gr,SBC,http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+Blueskytv.gr,BLUE SKY,http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
+Extra.gr,EXTRA CHANNEL,rtmp://213.16.167.186:1935/live/mpegts_256.stream
+Kontra.gr,KONTRA,http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+avi,ALERT TV,https://www.youtube.com/watch?v=4TxS3Je89Iw
+4E.gr,4E,http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+4E.gr,4E BUP,http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+KritiTV.gr,KPHTH TV,http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+ext,NEA TV,http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+KritiTV.gr,CRETA,http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
+Tv100.gr,TV-100,http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
+ext,BERGINA,http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
+Diktyotv.gr,DIKTYO TV,http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
+ext,ENA CHANNEL,http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
+Kanali6.gr,KANALI 6,http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
+Rchannel.gr,R CHANNEL,http://w11.streamgb.com:1935/8046/8046/playlist.m3u8
+Thrakinet.gr,THRAKI NET,http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
+ext,TV EPILOGES,http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
+avi,TV DRAMA,https://m.youtube.com/watch?v=rOBW6DJwlv0
+Deltatv.gr,DELTA TV,mms://deltatv1.dyndns.org:1194
+FlashTV.tr,FLASH TV,https://www.youtube.com/watch?v=Fcomx2jV1Cw
+TopChannel.al,TOP CHANNEL,http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
+ext,WEST CHANNEL,http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
+ext,ART TV,http://iphone-streaming.ustream.tv/uhls/6894275/streams/live/iphon/playlist.m3u8
+ext,AXELWOS TV,http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+ext,BHMA TV,http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
+Corfuchannel.gr,CORFU CHANNEL,http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphon/playlist.m3u8
+Epirustv1.gr,EPIRUS TV1,http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
+impact,ITV,http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
+ext,START TV,http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
+Astratv.gr,ASTRA TV,http://www.astratv.gr:8090/hls/livestream.m3u8
+TRT1.tr,TRT TV,http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
+ext,ACHAIA CHANNEL,http://78.129.184.15:23319/streaming/stream/playlist.m3u8
+Besttv.gr,BEST TV,http://138.201.57.212:1935/best/myStream/playlist.m3u8
+avi,DR TV,https://www.youtube.com/watch?v=txPl0fKQqrc
+ext,LYCHNOS,http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+Superb.gr,SUPER B,http://iphone-streaming.ustream.tv/uhls/13351318/streams/live/iphon/playlist.m3u8
+AegeanTV.gr,AIGAIOTV,http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+ext,OMEGA TELEVISION,http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
+ext,SAMIAKI TV,rtmp://94.23.218.186:1935/samiaki/samiaki
+ext,SYROS TV1,http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+ext,VOLCANO,rtmp://176.9.123.140:1935/santorini/santorini
+avi,TV ALITHEIA,https://www.youtube.com/watch?v=2s17OM8br6k
+ext,TV MYTILINI,rtmp://cp77174.live.edgefcs.net:1935/live/123456@19937@
+
+group,WEB TV
+avi,MAKELEIO WEB TV,https://www.youtube.com/watch?v=OVecTWv-xXw
+ext,NETV TORONTO,http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+ext,DIAVATA TV,http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
+ext,PALMOS TV,http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
+ext,WZRA KIDS,mmsh://wpso.com:200/kids
+KritiTV.gr,CRETA TV,http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
+ext,ELLINIKOS TV,http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+ext,MANA ELLADA TV,http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
+ext,MESSINIA TV,http://176.9.123.140:1935/messinia/messinia/master.m3u8
+ext,TILESPORT,rtmp://78.47.151.114:1935/tilesport/movie1
+ext,WZRA,http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+ext,NEW TV,http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
+ext,HELLAS TV,http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
+
+group,ΜΟΥΣΙΚΗ
+ext,JAYZEE HD,http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+ext,THEMA TV,http://5.196.92.57/webtv/medium.m3u8
+ext,ZOUGLA TV,http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+ext,CANNALI,rtmp://live.streams.ovh:1935/cannali/cannali
+ext,TILEMOUSIKI,mmsh://wpso.com:200/music
+ext,MAD CY,rtmp://eradio.networksolutions.com.cy:1935/live/livestream
+
+group,CINEMA
+ext,LAMPSI TV,http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
+ext,TV GOLD,mms://tvgold.webcast.mediacdn.com/tvgold
+ext,MPAXALO TV,http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+ext,TV FILOPOLI,http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+ext,NATURA TV HD,http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
+
+
