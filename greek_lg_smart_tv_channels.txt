@@ -1,9 +1,9 @@
 group,ΠΑΝΕΛΛΑΔΙΚΑ
-NEPIT1.gr,ERT1,https://www.youtube.com/watch?v=VaviMC3KGtQ
-NEPIT1.gr,ERT1 BUP,mmsh://wpso.com:200/ert1
-NEPIT1.gr,ERT1 BUP 2,http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
-NEPITplus.gr,ERT2,https://www.youtube.com/watch?v=TyvdueFoCfA
-NEPITplus.gr,ERT2 BUP,http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
+EPT1.gr,ERT1,https://www.youtube.com/watch?v=VaviMC3KGtQ
+EPT1.gr,ERT1 BUP,mmsh://wpso.com:200/ert1
+EPT1.gr,ERT1 BUP 2,http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
+EPT2.gr,ERT2,https://www.youtube.com/watch?v=TyvdueFoCfA
+EPT2.gr,ERT2 BUP,http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
 EPT3.gr,ERT3,https://www.youtube.com/watch?v=TAPQISON4YM
 EPT3.gr,ERT3 BUP,mmsh://wpso.com:200/ert3
 mega.gr,MEGA,https://www.youtube.com/watch?v=2Y8qsS_xH2Y
