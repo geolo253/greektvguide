@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,ERT 1
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/ERT1.m3u8
+#EXTINF:-1,ERT 2
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/ERT2.m3u8
+#EXTINF:-1,ERT 3
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/ERT3.m3u8
+#EXTINF:-1,GR:ERT WORLD
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/ERT.WORLD.m3u8
+#EXTINF:-1,MEGA
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/MEGA.m3u8
+#EXTINF:-1,ANT1
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/ANT1.m3u8
+#EXTINF:-1,STAR
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/STAR.m3u8
+#EXTINF:-1,ALPHA
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/ALPHA.m3u8
+#EXTINF:-1,SKAI
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/SKAI.m3u8
+#EXTINF:-1,E TV
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/E.m3u8
+#EXTINF:-1,MAKEDONIA TV
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/MACEDONIA.m3u8
+#EXTINF:-1,ART TV
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/ART.m3u8
+#EXTINF:-1,MAD
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/MAD.m3u8
+#EXTINF:-1,RISE
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/RISE.m3u8
+#EXTINF:-1,SMILE
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/SMILE.m3u8
+#EXTINF:-1,NICKELODEON
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/NICKELODEON.m3u8
+#EXTINF:-1,ATTICA
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/ATTICA.m3u8
+#EXTINF:-1,AB CHANNEL
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/AB.m3u8
+#EXTINF:-1,ALERT TV
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/ALERT.m3u8
+#EXTINF:-1,CHANNEL9
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/CHANNEL9.m3u8
+#EXTINF:-1,ACTION24
+https://raw.githubusercontent.com/komhsgr/Greek.tv/master/ACTION24.m3u8
+#EXTINF:-1,EXTRA CHANNEL
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:-1,GR:BLUE SKY
+http://176.9.175.244:1935/bluesky/tvlive/playlist.m3u8
+#EXTINF:-1,GR:KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
