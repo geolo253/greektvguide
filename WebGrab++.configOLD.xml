@@ -115,49 +115,118 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
 -->    
   <!-- Greece -->
   <channel update="i" site="novaguide.gr" site_id="25" xmltv_id="VOULI">VOULI</channel>
+  <channel update="i" site="novaguide.gr" site_id="25" xmltv_id="VOULI BUP">VOULI BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="25" xmltv_id="VOULI BUP 2">VOULI BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="25" xmltv_id="VOULI BUP 3">VOULI BUP 3</channel>
   
-  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕRΤ 1">ERT 1</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ1">ERT1</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ1 BUP">ERT1 BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ1 BUP 2">ERT1 BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ1 BUP 3">ERT1 BUP 3</channel>
   
-  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕRΤ 2">ERT 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ2">ERT2</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ2 BUP">ERT2 BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ2 BUP 2">ERT2 BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ2 BUP 3">ERT2 BUP 3</channel>
   
-  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕRΤ 3">ERT 3</channel>
-  
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ3">ERT3</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ3 BUP">ERT3 BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ3 BUP 2">ERT3 BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕΡΤ3 BUP 3">ERT3 BUP 3</channel>
+
   <channel update="i" site="novaguide.gr" site_id="9" xmltv_id="MEGA">MEGA</channel>
-  
+  <channel update="i" site="novaguide.gr" site_id="9" xmltv_id="MEGA BUP">MEGA BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="9" xmltv_id="MEGA BUP 2">MEGA BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="9" xmltv_id="MEGA BUP 3">MEGA BUP 3</channel>
+
   <channel update="i" site="novaguide.gr" site_id="10" xmltv_id="ANT1">ANT1</channel>
-  
+  <channel update="i" site="novaguide.gr" site_id="10" xmltv_id="ANT1 BUP">ANT1 BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="10" xmltv_id="ANT1 BUP 2">ANT1 BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="10" xmltv_id="ANT1 BUP 3">ANT1 BUP 3</channel>
+
   <channel update="i" site="novaguide.gr" site_id="18" xmltv_id="STAR">STAR</channel>
-  
+  <channel update="i" site="novaguide.gr" site_id="18" xmltv_id="STAR BUP">STAR BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="18" xmltv_id="STAR BUP 2">STAR BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="18" xmltv_id="STAR BUP 3">STAR BUP 3</channel>
+
   <channel update="i" site="novaguide.gr" site_id="4" xmltv_id="ALPHA">ALPHA</channel>
-  
+  <channel update="i" site="novaguide.gr" site_id="4" xmltv_id="ALPHA BUP">ALPHA BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="4" xmltv_id="ALPHA BUP 2">ALPHA BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="4" xmltv_id="ALPHA BUP 3">ALPHA BUP 3</channel>
+
   <channel update="i" site="novaguide.gr" site_id="5" xmltv_id="SKAI">SKAI</channel>
-  
+  <channel update="i" site="novaguide.gr" site_id="5" xmltv_id="SKAI BUP">SKAI BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="5" xmltv_id="SKAI BUP 2">SKAI BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="5" xmltv_id="SKAI BUP 3">SKAI BUP 3</channel>
+
   <channel update="i" site="novaguide.gr" site_id="70" xmltv_id="EURONEWS">EURONEWS</channel>
-  
-  <channel update="i" site="novaguide.gr" site_id="42" xmltv_id="E TV">E TV</channel>
-  
+  <channel update="i" site="novaguide.gr" site_id="70" xmltv_id="EURONEWS BUP">EURONEWS BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="70" xmltv_id="EURONEWS BUP 2">EURONEWS BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="70" xmltv_id="EURONEWS BUP 3">EURONEWS BUP 3</channel>
+
+  <channel update="i" site="novaguide.gr" site_id="42" xmltv_id="E">E</channel>
+  <channel update="i" site="novaguide.gr" site_id="42" xmltv_id="E BUP">E BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="42" xmltv_id="E BUP 2">E BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="42" xmltv_id="E BUP 3">E BUP 3</channel>
+
   <channel update="i" site="novaguide.gr" site_id="11" xmltv_id="M.TV">M.TV</channel>
-  
+  <channel update="i" site="novaguide.gr" site_id="11" xmltv_id="M.TV BUP">M.TV BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="11" xmltv_id="M.TV BUP 2">M.TV BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="11" xmltv_id="M.TV BUP 3">M.TV BUP 3</channel>
+
   <channel update="i" site="novaguide.gr" site_id="34" xmltv_id="KONTRA">KONTRA</channel>
+  <channel update="i" site="novaguide.gr" site_id="34" xmltv_id="KONTRA BUP">KONTRA BUP</channel>
+  <channel update="i" site="novaguide.gr" site_id="34" xmltv_id="KONTRA BUP 2">KONTRA BUP 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="34" xmltv_id="KONTRA BUP 3">KONTRA BUP 3</channel>
   
   <!-- Cyprus -->
   <channel update="i" site="cyta.com.cy" site_id="1" xmltv_id="RIK1">RIK1</channel>
+  <channel update="i" site="cyta.com.cy" site_id="1" xmltv_id="RIK1 BUP">RIK1 BUP</channel>
+  <channel update="i" site="cyta.com.cy" site_id="1" xmltv_id="RIK1 BUP 2">RIK1 BUP 2</channel>
+  <channel update="i" site="cyta.com.cy" site_id="1" xmltv_id="RIK1 BUP 3">RIK1 BUP 3</channel>
 
   <channel update="i" site="cyta.com.cy" site_id="2" xmltv_id="RIK2">RIK2</channel>
+  <channel update="i" site="cyta.com.cy" site_id="2" xmltv_id="RIK2 BUP">RIK2 BUP</channel>
+  <channel update="i" site="cyta.com.cy" site_id="2" xmltv_id="RIK2 BUP 2">RIK2 BUP 2</channel>
+  <channel update="i" site="cyta.com.cy" site_id="2" xmltv_id="RIK2 BUP 3">RIK2 BUP 3</channel>
 
   <channel update="i" site="cyta.com.cy" site_id="3" xmltv_id="MEGA CY">MEGA CY</channel>
+  <channel update="i" site="cyta.com.cy" site_id="3" xmltv_id="MEGA CY BUP">MEGA CY BUP</channel>
+  <channel update="i" site="cyta.com.cy" site_id="3" xmltv_id="MEGA CY BUP 2">MEGA CY BUP 2</channel>
+  <channel update="i" site="cyta.com.cy" site_id="3" xmltv_id="MEGA CY BUP 3">MEGA CY BUP 3</channel>
 
   <channel update="i" site="cyta.com.cy" site_id="4" xmltv_id="ANT1 CY">ANT1 CY</channel>
+  <channel update="i" site="cyta.com.cy" site_id="4" xmltv_id="ANT1 CY BUP">ANT1 CY BUP</channel>
+  <channel update="i" site="cyta.com.cy" site_id="4" xmltv_id="ANT1 CY BUP 2">ANT1 CY BUP 2</channel>
+  <channel update="i" site="cyta.com.cy" site_id="4" xmltv_id="ANT1 CY BUP 3">ANT1 CY BUP 3</channel>
 
   <channel update="i" site="cyta.com.cy" site_id="5" xmltv_id="SIGMA CY">SIGMA CY</channel>
+  <channel update="i" site="cyta.com.cy" site_id="5" xmltv_id="SIGMA CY BUP">SIGMA CY BUP</channel>
+  <channel update="i" site="cyta.com.cy" site_id="5" xmltv_id="SIGMA CY BUP 2">SIGMA CY BUP 2</channel>
+  <channel update="i" site="cyta.com.cy" site_id="5" xmltv_id="SIGMA CY BUP 3">SIGMA CY BUP 3</channel>
 
   <channel update="i" site="cyta.com.cy" site_id="6" xmltv_id="PLUS CY">PLUS CY</channel> <!-- Cncp -->
+  <channel update="i" site="cyta.com.cy" site_id="6" xmltv_id="PLUS CY BUP">PLUS CY BUP</channel> <!-- Cncp -->
+  <channel update="i" site="cyta.com.cy" site_id="6" xmltv_id="PLUS CY BUP 2">PLUS CY BUP 2</channel> <!-- Cncp -->
+  <channel update="i" site="cyta.com.cy" site_id="6" xmltv_id="PLUS CY BUP 3">PLUS CY BUP 3</channel> <!-- Cncp -->
 
   <channel update="i" site="cyta.com.cy" site_id="7" xmltv_id="EXTRA CY">EXTRA CY</channel>
+  <channel update="i" site="cyta.com.cy" site_id="7" xmltv_id="EXTRA CY BUP">EXTRA CY BUP</channel>
+  <channel update="i" site="cyta.com.cy" site_id="7" xmltv_id="EXTRA CY BUP 2">EXTRA CY BUP 2</channel>
+  <channel update="i" site="cyta.com.cy" site_id="7" xmltv_id="EXTRA CY BUP 3">EXTRA CY BUP 3</channel>
 
   <channel update="i" site="cyta.com.cy" site_id="8" xmltv_id="CAPITAL CY">CAPITAL CY</channel> <!-- Capital tv -->
+  <channel update="i" site="cyta.com.cy" site_id="8" xmltv_id="CAPITAL CY BUP">CAPITAL CY BUP</channel> <!-- Capital tv -->
+  <channel update="i" site="cyta.com.cy" site_id="8" xmltv_id="CAPITAL CY BUP 2">CAPITAL CY BUP 2</channel> <!-- Capital tv -->
+  <channel update="i" site="cyta.com.cy" site_id="8" xmltv_id="CAPITAL CY BUP 3">CAPITAL CY BUP 3</channel> <!-- Capital tv -->
 
   <channel update="i" site="cyta.com.cy" site_id="9" xmltv_id="ALPHA KYPROY">ALPHA KYPROY</channel> <!-- Alfagr -->
+  <channel update="i" site="cyta.com.cy" site_id="9" xmltv_id="ALPHA KYPROY BUP">ALPHA KYPROY BUP</channel> <!-- Alfagr -->
+  <channel update="i" site="cyta.com.cy" site_id="9" xmltv_id="ALPHA KYPROY BUP 2">ALPHA KYPROY BUP 2</channel> <!-- Alfagr -->
+  <channel update="i" site="cyta.com.cy" site_id="9" xmltv_id="ALPHA KYPROY BUP 3">ALPHA KYPROY BUP 3</channel> <!-- Alfagr -->
 
   <channel update="i" site="cyta.com.cy" site_id="58" xmltv_id="MAD CY">MAD CY</channel> <!-- Madcy -->
+  <channel update="i" site="cyta.com.cy" site_id="58" xmltv_id="MAD CY BUP">MAD CY BUP</channel> <!-- Madcy -->
+  <channel update="i" site="cyta.com.cy" site_id="58" xmltv_id="MAD CY BUP 2">MAD CY BUP 2</channel> <!-- Madcy -->
+  <channel update="i" site="cyta.com.cy" site_id="58" xmltv_id="MAD CY BUP 3">MAD CY BUP 3</channel> <!-- Madcy -->
  </settings>
