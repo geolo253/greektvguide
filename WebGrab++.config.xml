@@ -79,7 +79,7 @@ The timespan for which shows will be grabbed.
 It takes one or two values separated by a comma or a space. The first is the number of days (including today) to download, note that 0 is today. The second (optional) is a time specified between 0:00 and 24:00 which will reduce the download to only the one show (per day) which is scheduled around the specified time. Any value between start time (including) and stop time will do
 This -one-show-only mode is helpfull if a SiteIni file needs to be debugged
 -->
-  <timespan>4</timespan>
+  <timespan>9</timespan>
 
   <!-- update mode
 i or incremental     only updates of changes , gabs, repairs and new shows
@@ -118,9 +118,9 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
   
   <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕRΤ 1">ERT 1</channel>
   
-  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕRΤ 2">ERT 2</channel>
+  <channel update="i" site="novaguide.gr" site_id="77" xmltv_id="ΕRΤ 2">ERT 2</channel>
   
-  <channel update="i" site="novaguide.gr" site_id="20" xmltv_id="ΕRΤ 3">ERT 3</channel>
+  <channel update="i" site="novaguide.gr" site_id="79" xmltv_id="ΕRΤ 3">ERT 3</channel>
   
   <channel update="i" site="novaguide.gr" site_id="9" xmltv_id="MEGA">MEGA</channel>
   
@@ -132,6 +132,8 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
   
   <channel update="i" site="novaguide.gr" site_id="5" xmltv_id="SKAI">SKAI</channel>
   
+  <channel update="i" site="novaguide.gr" site_id="21" xmltv_id="MAKEDONIA TV">MAKEDONIA TV</channel>
+  
   <channel update="i" site="novaguide.gr" site_id="70" xmltv_id="EURONEWS">EURONEWS</channel>
   
   <channel update="i" site="novaguide.gr" site_id="42" xmltv_id="E TV">E TV</channel>
@@ -139,8 +141,14 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
   <channel update="i" site="novaguide.gr" site_id="11" xmltv_id="M.TV">M.TV</channel>
   
   <channel update="i" site="novaguide.gr" site_id="34" xmltv_id="KONTRA">KONTRA</channel>
+    
+  <channel update="i" site="novaguide.gr" site_id="19" xmltv_id="MAD">MAD</channel>
   
-  <!-- Cyprus -->
+  <channel update="i" site="novaguide.gr" site_id="26" xmltv_id="NICKELODEON">NICKELODEON</channel>
+  
+  <channel update="i" site="novaguide.gr" site_id="32" xmltv_id="ACTION24">ACTION24</channel>
+  
+ <!-- Cyprus -->
   <channel update="i" site="cyta.com.cy" site_id="1" xmltv_id="RIK1">RIK1</channel>
 
   <channel update="i" site="cyta.com.cy" site_id="2" xmltv_id="RIK2">RIK2</channel>
