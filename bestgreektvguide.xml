@@ -29,6 +29,11 @@
     <icon src="http://www.novaguide.gr/files/1/Channels/85X80_katheta/ns24.png" />
     <url>http://www.novaguide.gr</url>
   </channel>
+  <channel id="MEGA.gr">
+    <display-name lang="el">MEGA</display-name>
+    <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=9242583&amp;t=1473885940276" />
+    <url>http://www.cosmote.gr</url>
+  </channel>
   <channel id="alpha.gr">
     <display-name lang="el">ALPHA</display-name>
     <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=9242595&amp;t=1473885954746" />
@@ -119,17 +124,17 @@
     <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=9242931&amp;t=1473887036307" />
     <url>http://www.cosmote.gr</url>
   </channel>
-  <channel id="GR VIP | 0TE SPORT 1 HD">
+  <channel id=" GR VIP | 0TE SPORT 1 HD">
     <display-name lang="el">OTE SPORT 1HD</display-name>
     <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=9243051&amp;t=1473887177634" />
     <url>http://www.cosmote.gr</url>
   </channel>
-  <channel id="GR VIP | 0TE SPORT 2 HD">
+  <channel id="0TE SPORT 2 HD">
     <display-name lang="el">OTE SPORT 2HD</display-name>
     <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=9243039&amp;t=1473887162192" />
     <url>http://www.cosmote.gr</url>
   </channel>
-  <channel id="GR VIP | 0TE SPORT 3 HD">
+  <channel id=" 0TE SPORT 3 HD">
     <display-name lang="el">OTE SPORT 3HD</display-name>
     <icon src="https://www.cosmote.gr/portal/image/journal/article?img_id=9243027&amp;t=1473887147371" />
     <url>http://www.cosmote.gr</url>
@@ -1349,6 +1354,262 @@
     <title lang="el">Novasports24HD</title>
     <desc lang="el">Εγκυρη &amp; ολοκληρωμένη 24ωρη HD ενημέρωση μόνο από τα κανάλια Novasports! Με αθλητικά δελτία ειδήσεων ανά 30 λεπτά, συνεντεύξεις Τύπου, δηλώσεις πριν &amp; μετά τους αγώνες, την Ωρα των Πρωταθλητών, και σπορ απ' όλο τον κόσμο 24 ώρες το 24ωρο!</desc>
     <category lang="el">24ωρη αθλητική ενημέρωση σε HD!</category>
+  </programme>
+  <programme start="20160918002000 -0300" stop="20160918021500 -0300" channel="MEGA.gr">
+    <title lang="el">ΗΚρυφήΑτζέντατουΦίλουμου(LittleBlackBook)</title>
+    <category lang="el">Ρομαντική κομεντί</category>
+  </programme>
+  <programme start="20160918021500 -0300" stop="20160918031500 -0300" channel="MEGA.gr">
+    <title lang="el">Justified</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918031500 -0300" stop="20160918040000 -0300" channel="MEGA.gr">
+    <title lang="el">LostGirl</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918040000 -0300" stop="20160918050000 -0300" channel="MEGA.gr">
+    <title lang="el">FantasyIsland</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918050000 -0300" stop="20160918054500 -0300" channel="MEGA.gr">
+    <title lang="el">Φιλοδοξίες(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918054500 -0300" stop="20160918070000 -0300" channel="MEGA.gr">
+    <title lang="el">ΤαΜυστικάτηςΕδέμ(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918070000 -0300" stop="20160918075000 -0300" channel="MEGA.gr">
+    <title lang="el">ΜεΘέαστοΠέλαγος(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918075000 -0300" stop="20160918085000 -0300" channel="MEGA.gr">
+    <title lang="el">ΆλμαΛίμπρε(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918085000 -0300" stop="20160918094000 -0300" channel="MEGA.gr">
+    <title lang="el">ΑριστοτέληςοΆριστος(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918094000 -0300" stop="20160918104000 -0300" channel="MEGA.gr">
+    <title lang="el">ΟιΑταίριαστοι(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918104000 -0300" stop="20160918114000 -0300" channel="MEGA.gr">
+    <title lang="el">Τηλεμπόρα(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918114000 -0300" stop="20160918125000 -0300" channel="MEGA.gr">
+    <title lang="el">ΚανείςδεΛέεισ'Αγαπώ(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918125000 -0300" stop="20160918140000 -0300" channel="MEGA.gr">
+    <title lang="el">LoveSorry(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918140000 -0300" stop="20160918150000 -0300" channel="MEGA.gr">
+    <title lang="el">ΌλαστονΑέρα(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918150000 -0300" stop="20160918172000 -0300" channel="MEGA.gr">
+    <title lang="el">ΚαράτεΚιντ2(KarateKidII)</title>
+    <category lang="el">Περιπέτεια</category>
+  </programme>
+  <programme start="20160918172000 -0300" stop="20160918182000 -0300" channel="MEGA.gr">
+    <title lang="el">ΈναςΜήναςκαιΚάτιE23(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918182000 -0300" stop="20160918191000 -0300" channel="MEGA.gr">
+    <title lang="el">ΜοντέρναΟικογένεια(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918191000 -0300" stop="20160918200000 -0300" channel="MEGA.gr">
+    <title lang="el">Μάλιστα,Σεφ!E18(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918200000 -0300" stop="20160918210000 -0300" channel="MEGA.gr">
+    <title lang="el">ΗΠολυκατοικία(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160918210000 -0300" stop="20160919001000 -0300" channel="MEGA.gr">
+    <title lang="el">ΕπτάΘανάσιμεςΠεθερές(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919001000 -0300" stop="20160919020000 -0300" channel="MEGA.gr">
+    <title lang="el">ΕιδικοίΠράκτορες:Γ.Α.Τ.Ε.Σ.(D.E.B.S.)</title>
+    <category lang="el">Περιπέτεια</category>
+  </programme>
+  <programme start="20160919020000 -0300" stop="20160919030000 -0300" channel="MEGA.gr">
+    <title lang="el">Justified</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919030000 -0300" stop="20160919040000 -0300" channel="MEGA.gr">
+    <title lang="el">LostGirl</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919040000 -0300" stop="20160919050000 -0300" channel="MEGA.gr">
+    <title lang="el">FantasyIsland</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919050000 -0300" stop="20160919054500 -0300" channel="MEGA.gr">
+    <title lang="el">Φιλοδοξίες(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919054500 -0300" stop="20160919065000 -0300" channel="MEGA.gr">
+    <title lang="el">ΤαΜυστικάτηςΕδέμ(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919065000 -0300" stop="20160919084000 -0300" channel="MEGA.gr">
+    <title lang="el">ΑέρινεςΣιωπές(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919084000 -0300" stop="20160919095000 -0300" channel="MEGA.gr">
+    <title lang="el">ΚαιοιΤέσσεριςΉτανΥπέροχες(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919095000 -0300" stop="20160919105000 -0300" channel="MEGA.gr">
+    <title lang="el">ΑνΘυμηθείςτ'Όνειρόμου(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919105000 -0300" stop="20160919115000 -0300" channel="MEGA.gr">
+    <title lang="el">ΑσυνήθειςΎποπτοι(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919115000 -0300" stop="20160919125000 -0300" channel="MEGA.gr">
+    <title lang="el">ΜεταΠαντελόνιαΚάτω(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919125000 -0300" stop="20160919140000 -0300" channel="MEGA.gr">
+    <title lang="el">ΟιΜικρομεσαίοι</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919140000 -0300" stop="20160919150000 -0300" channel="MEGA.gr">
+    <title lang="el">ΤοΚόκκινοΔωμάτιο(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919150000 -0300" stop="20160919164000 -0300" channel="MEGA.gr">
+    <title lang="el">ΔύοΞένοι(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919164000 -0300" stop="20160919165000 -0300" channel="MEGA.gr">
+    <title lang="el">ΟΚαιρόςμετονΘοδωρήΚολυδά</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160919165000 -0300" stop="20160919175000 -0300" channel="MEGA.gr">
+    <title lang="el">ΜκαιΜE15(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919175000 -0300" stop="20160919185000 -0300" channel="MEGA.gr">
+    <title lang="el">ΗΏραηΚαλήE88(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919185000 -0300" stop="20160919200000 -0300" channel="MEGA.gr">
+    <title lang="el">KaraSevdaE74</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919200000 -0300" stop="20160919210000 -0300" channel="MEGA.gr">
+    <title lang="el">ΗΠολυκατοικία(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919210000 -0300" stop="20160919220000 -0300" channel="MEGA.gr">
+    <title lang="el">ΕίσαιτοΤαίριμουE11(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919220000 -0300" stop="20160919231000 -0300" channel="MEGA.gr">
+    <title lang="el">Πενήντα-ΠενήνταE11(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160919231000 -0300" stop="20160920011000 -0300" channel="MEGA.gr">
+    <title lang="el">ΟΦρουρόςτωνΣυνόρων(TheShepherd)</title>
+    <category lang="el">Περιπέτεια</category>
+  </programme>
+  <programme start="20160920011000 -0300" stop="20160920020000 -0300" channel="MEGA.gr">
+    <title lang="el">ClientList</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920020000 -0300" stop="20160920030000 -0300" channel="MEGA.gr">
+    <title lang="el">DropDeadDiva</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920030000 -0300" stop="20160920032000 -0300" channel="MEGA.gr">
+    <title lang="el">AsIf</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920032000 -0300" stop="20160920041000 -0300" channel="MEGA.gr">
+    <title lang="el">TheBlacklist</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920041000 -0300" stop="20160920051000 -0300" channel="MEGA.gr">
+    <title lang="el">FantasyIsland</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920051000 -0300" stop="20160920054500 -0300" channel="MEGA.gr">
+    <title lang="el">Φιλοδοξίες(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920054500 -0300" stop="20160920065000 -0300" channel="MEGA.gr">
+    <title lang="el">ΤαΜυστικάτηςΕδέμ(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920065000 -0300" stop="20160920084000 -0300" channel="MEGA.gr">
+    <title lang="el">ΑέρινεςΣιωπές(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920084000 -0300" stop="20160920095000 -0300" channel="MEGA.gr">
+    <title lang="el">ΚαιοιΤέσσεριςΉτανΥπέροχες(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920095000 -0300" stop="20160920105000 -0300" channel="MEGA.gr">
+    <title lang="el">ΑνΘυμηθείςτ'Όνειρόμου(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920105000 -0300" stop="20160920115000 -0300" channel="MEGA.gr">
+    <title lang="el">ΑσυνήθειςΎποπτοι(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920115000 -0300" stop="20160920125000 -0300" channel="MEGA.gr">
+    <title lang="el">ΜεταΠαντελόνιαΚάτω(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920125000 -0300" stop="20160920140000 -0300" channel="MEGA.gr">
+    <title lang="el">ΟιΜικρομεσαίοι(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920140000 -0300" stop="20160920150000 -0300" channel="MEGA.gr">
+    <title lang="el">ΤοΚόκκινοΔωμάτιο(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920150000 -0300" stop="20160920164000 -0300" channel="MEGA.gr">
+    <title lang="el">ΔύοΞένοι(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920164000 -0300" stop="20160920165000 -0300" channel="MEGA.gr">
+    <title lang="el">ΟΚαιρόςμετονΘοδωρήΚολυδά</title>
+    <category lang="el">Ενημέρωση</category>
+  </programme>
+  <programme start="20160920165000 -0300" stop="20160920175000 -0300" channel="MEGA.gr">
+    <title lang="el">ΜκαιΜE16(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920175000 -0300" stop="20160920185000 -0300" channel="MEGA.gr">
+    <title lang="el">ΗΏραηΚαλήE89(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920185000 -0300" stop="20160920200000 -0300" channel="MEGA.gr">
+    <title lang="el">KaraSevdaE75</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920200000 -0300" stop="20160920210000 -0300" channel="MEGA.gr">
+    <title lang="el">ΗΠολυκατοικία(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920210000 -0300" stop="20160920220000 -0300" channel="MEGA.gr">
+    <title lang="el">ΕίσαιτοΤαίριμουE12(Ε)</title>
+    <category lang="el">Σειρά</category>
+  </programme>
+  <programme start="20160920220000 -0300" stop="20160920231000 -0300" channel="MEGA.gr">
+    <title lang="el">Πενήντα-ΠενήνταE12(Ε)</title>
+    <category lang="el">Σειρά</category>
   </programme>
   <programme start="20160918003000 -0300" stop="20160918014500 -0300" channel="alpha.gr">
     <title lang="el">ΟιΙστορίεςτουΑστυνόμουΜπέκαΚ2(Ε)</title>
@@ -6864,503 +7125,503 @@
     <title lang="el">Δεκαετία'60:ΤοΤέλοςτηςΚρίσης</title>
     <category lang="el">Ντοκιμαντέρ</category>
   </programme>
-  <programme start="20160918014500 -0300" stop="20160918034500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918014500 -0300" stop="20160918034500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Μπενφίκα-Μπεσίκτας</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918034500 -0300" stop="20160918040000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918034500 -0300" stop="20160918040000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918040000 -0300" stop="20160918060000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918040000 -0300" stop="20160918060000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Κόνιασπορ-ΣαχτάρΝτονέτσκ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918060000 -0300" stop="20160918070000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918060000 -0300" stop="20160918070000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">UEFAChampionsLeague-Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918070000 -0300" stop="20160918080000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918070000 -0300" stop="20160918080000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">UEFAChampionsLeague-Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918080000 -0300" stop="20160918100000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918080000 -0300" stop="20160918100000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Λέστερ-Μπέρνλι</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918100000 -0300" stop="20160918120000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918100000 -0300" stop="20160918120000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:ΜάντσεστερΣίτι-Μπόρνμουθ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918120000 -0300" stop="20160918140000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918120000 -0300" stop="20160918140000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Χαλ-Άρσεναλ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918140000 -0300" stop="20160918160000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918140000 -0300" stop="20160918160000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Γουότφορντ-ΜάντσεστερΓιουνάιτεντ(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918160000 -0300" stop="20160918161500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918160000 -0300" stop="20160918161500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918161500 -0300" stop="20160918181500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918161500 -0300" stop="20160918181500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Σαουθάμπτον-Σουόνσι(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918181500 -0300" stop="20160918183000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918181500 -0300" stop="20160918183000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918183000 -0300" stop="20160918203000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918183000 -0300" stop="20160918203000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Τότεναμ-Σάντερλαντ(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918203000 -0300" stop="20160918210000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918203000 -0300" stop="20160918210000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">UEFAChampionsLeagueMagazineE3</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918210000 -0300" stop="20160918214500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918210000 -0300" stop="20160918214500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">ΟΚόσμοςτουΑγγλικούΠρωταθλήματος</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918214500 -0300" stop="20160918234500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918214500 -0300" stop="20160918234500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Φιορεντίνα-Ρόμα(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918234500 -0300" stop="20160919014500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160918234500 -0300" stop="20160919014500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:ΚρίσταλΠάλας-Στόουκ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919014500 -0300" stop="20160919034500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919014500 -0300" stop="20160919034500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Βασιλεία-Λουντογκόρετς</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919034500 -0300" stop="20160919040000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919034500 -0300" stop="20160919040000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919040000 -0300" stop="20160919060000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919040000 -0300" stop="20160919060000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Μάιντς-ΣεντΕτιέν</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919060000 -0300" stop="20160919080000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919060000 -0300" stop="20160919080000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Βασιλεία-Λουντογκόρετς</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919080000 -0300" stop="20160919100000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919080000 -0300" stop="20160919100000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:ΓιουνγκΜπόις-ΟλυμπιακόςΣ.Φ.Π</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919100000 -0300" stop="20160919120000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919100000 -0300" stop="20160919120000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Σαουθάμπτον-Σουόνσι</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919120000 -0300" stop="20160919140000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919120000 -0300" stop="20160919140000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Λεβερκούζεν-ΤΣΣΚΑΜόσχας</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919140000 -0300" stop="20160919160000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919140000 -0300" stop="20160919160000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Τσέλσι-Λίβερπουλ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919160000 -0300" stop="20160919170000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919160000 -0300" stop="20160919170000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">ΑγγλικόΠρωτάθλημα:ΑνασκόπησητηςΚυριακής</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919170000 -0300" stop="20160919190000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919170000 -0300" stop="20160919190000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:ΡεάλΜαδρίτης-ΣπόρτινγκΛισαβόνας</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919190000 -0300" stop="20160919210000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919190000 -0300" stop="20160919210000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:ΟΚαλύτεροςΑγώναςτηςΕβδομάδας</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919210000 -0300" stop="20160919220000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919210000 -0300" stop="20160919220000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">ΑγγλικόΠρωτάθλημα:ΑνασκόπησητηςΚυριακής</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919220000 -0300" stop="20160920020000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160919220000 -0300" stop="20160920020000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Γουότφορντ-ΜάντσεστερΓιουνάιτεντ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920020000 -0300" stop="20160920040000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920020000 -0300" stop="20160920040000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Καραμπάγκ-ΣλόβανΛίμπερετ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920040000 -0300" stop="20160920060000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920040000 -0300" stop="20160920060000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:ΚρίσταλΠάλας-Στόουκ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920060000 -0300" stop="20160920075500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920060000 -0300" stop="20160920075500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Λιόν-ΝτιναμόΖάγκρεμπ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920075500 -0300" stop="20160920095000 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920075500 -0300" stop="20160920095000 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Βιγιαρεάλ-Ζυρίχη</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920095000 -0300" stop="20160920114500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920095000 -0300" stop="20160920114500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:ΚρίσταλΠάλας-Στόουκ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920114500 -0300" stop="20160920134500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920114500 -0300" stop="20160920134500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Γιουβέντους-Σεβίλλη</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920134500 -0300" stop="20160920154500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920134500 -0300" stop="20160920154500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Χαλ-Άρσεναλ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920154500 -0300" stop="20160920174500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920154500 -0300" stop="20160920174500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Μπάγερν-Ροστόφ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920174500 -0300" stop="20160920194500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920174500 -0300" stop="20160920194500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:ΜάντσεστερΣίτι-Μπόρνμουθ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920194500 -0300" stop="20160920214500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920194500 -0300" stop="20160920214500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Λέστερ-Μπέρνλι</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920214500 -0300" stop="20160920234500 -0300" channel="GR VIP | 0TE SPORT 1 HD">
+  <programme start="20160920214500 -0300" stop="20160920234500 -0300" channel=" GR VIP | 0TE SPORT 1 HD">
     <title lang="el">Ποδόσφαιρο:Μίλαν-Λάτσιο(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918014500 -0300" stop="20160918034500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918014500 -0300" stop="20160918034500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Λεγκάνες-Μπαρτσελόνα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918034500 -0300" stop="20160918040000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918034500 -0300" stop="20160918040000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918040000 -0300" stop="20160918050000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918040000 -0300" stop="20160918050000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">UEFAEuropaLeague-Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918050000 -0300" stop="20160918070000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918050000 -0300" stop="20160918070000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:ΑθλέτικΜπιλμπάο-ΣπόρτινγκΧιχόν</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918070000 -0300" stop="20160918090000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918070000 -0300" stop="20160918090000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:ΛαςΠάλμας-Μάλαγα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918090000 -0300" stop="20160918110000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918090000 -0300" stop="20160918110000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Εϊμπάρ-Σεβίλλη</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918110000 -0300" stop="20160918130000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918110000 -0300" stop="20160918130000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Νάπολι-Μπολόνια</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918130000 -0300" stop="20160918150000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918130000 -0300" stop="20160918150000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Οσασούνα-Θέλτα(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918150000 -0300" stop="20160918170000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918150000 -0300" stop="20160918170000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:ΑτλέτικοΜαδρίτης-ΣπόρτινγκΧιχόν</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918170000 -0300" stop="20160918171500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918170000 -0300" stop="20160918171500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918171500 -0300" stop="20160918191500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918171500 -0300" stop="20160918191500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:ΑθλέτικΜπιλμπάο-Βαλένθια(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918191500 -0300" stop="20160918193000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918191500 -0300" stop="20160918193000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918193000 -0300" stop="20160918213000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918193000 -0300" stop="20160918213000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Βιγιαρεάλ-Σοσιεδάδ(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918213000 -0300" stop="20160918214500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918213000 -0300" stop="20160918214500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918214500 -0300" stop="20160918234500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918214500 -0300" stop="20160918234500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Εσπανιόλ-ΡεάλΜαδρίτης(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918234500 -0300" stop="20160919014500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160918234500 -0300" stop="20160919014500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Κροτόνε-Παλέρμο</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919014500 -0300" stop="20160919034500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919014500 -0300" stop="20160919034500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Οσασούνα-Θέλτα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919034500 -0300" stop="20160919040000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919034500 -0300" stop="20160919040000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919040000 -0300" stop="20160919060000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919040000 -0300" stop="20160919060000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Κάλιαρι-Αταλάντα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919060000 -0300" stop="20160919070000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919060000 -0300" stop="20160919070000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">UEFAChampionsLeague-Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919070000 -0300" stop="20160919090000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919070000 -0300" stop="20160919090000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Τορίνο-Έμπολι</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919090000 -0300" stop="20160919110000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919090000 -0300" stop="20160919110000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Κροτόνε-Παλέρμο</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919110000 -0300" stop="20160919130000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919110000 -0300" stop="20160919130000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:ΑθλέτικΜπιλμπάο-Βαλένθια</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919130000 -0300" stop="20160919150000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919130000 -0300" stop="20160919150000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Σασουόλο-Τζένοα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919150000 -0300" stop="20160919170000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919150000 -0300" stop="20160919170000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Εσπανιόλ-ΡεάλΜαδρίτης</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919170000 -0300" stop="20160919190000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919170000 -0300" stop="20160919190000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Ίντερ-Γιουβέντους</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919190000 -0300" stop="20160919210000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919190000 -0300" stop="20160919210000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:ΟΚαλύτεροςΑγώναςτηςΕβδομάδας</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919210000 -0300" stop="20160919211500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919210000 -0300" stop="20160919211500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919211500 -0300" stop="20160919214500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919211500 -0300" stop="20160919214500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">UEFAChampionsLeagueMagazineE3</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919214500 -0300" stop="20160919234500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919214500 -0300" stop="20160919234500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Αλαβέζ-ΛαΚορούνια(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919234500 -0300" stop="20160920014000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160919234500 -0300" stop="20160920014000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Φιορεντίνα-Ρόμα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920014000 -0300" stop="20160920033500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920014000 -0300" stop="20160920033500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Βιγιαρεάλ-Σοσιεδάδ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920033500 -0300" stop="20160920053000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920033500 -0300" stop="20160920053000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Ουντινέζε-Κιέβο</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920053000 -0300" stop="20160920072000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920053000 -0300" stop="20160920072000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Εϊμπάρ-Σεβίλλη</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920072000 -0300" stop="20160920091500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920072000 -0300" stop="20160920091500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Κάλιαρι-Αταλάντα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920091500 -0300" stop="20160920111000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920091500 -0300" stop="20160920111000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Νάπολι-Μπολόνια</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920111000 -0300" stop="20160920130500 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920111000 -0300" stop="20160920130500 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:ΑτλέτικοΜαδρίτης-ΣπόρτινγκΧιχόν</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920130500 -0300" stop="20160920150000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920130500 -0300" stop="20160920150000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Λάτσιο-Πεσκάρα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920150000 -0300" stop="20160920170000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920150000 -0300" stop="20160920170000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Αλαβέζ-ΛαΚορούνια</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920170000 -0300" stop="20160920190000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920170000 -0300" stop="20160920190000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Σαμπντόρια-Μίλαν</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920190000 -0300" stop="20160920210000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920190000 -0300" stop="20160920210000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Λεγκάνες-Μπαρτσελόνα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920210000 -0300" stop="20160920230000 -0300" channel="GR VIP | 0TE SPORT 2 HD">
+  <programme start="20160920210000 -0300" stop="20160920230000 -0300" channel="0TE SPORT 2 HD">
     <title lang="el">Ποδόσφαιρο:Μάλαγα-Εϊμπάρ(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918013000 -0300" stop="20160918033000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918013000 -0300" stop="20160918033000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Καϊζερσλάουτερν-Στουτγκάρδη</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918033000 -0300" stop="20160918040000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918033000 -0300" stop="20160918040000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">ΣτιγμιότυπαCopaSudamericana2016</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918040000 -0300" stop="20160918060000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918040000 -0300" stop="20160918060000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Χόφενχαϊμ-Βόλφσμπουργκ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918060000 -0300" stop="20160918080000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918060000 -0300" stop="20160918080000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Γκλάντμπαχ-Βέρντερ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918080000 -0300" stop="20160918100000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918080000 -0300" stop="20160918100000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Σπάρτη-Παναιγιάλειος</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918100000 -0300" stop="20160918120000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918100000 -0300" stop="20160918120000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Αμβούργο-Λάιπτσιχ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918120000 -0300" stop="20160918140000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918120000 -0300" stop="20160918140000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Ντόρτμουντ-Ντάρμσταντ98</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918140000 -0300" stop="20160918143000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918140000 -0300" stop="20160918143000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">UEFAChampionsLeagueMagazineE3</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918143000 -0300" stop="20160918163000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918143000 -0300" stop="20160918163000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Καρλσρούη-ΖανκτΠάουλι(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918163000 -0300" stop="20160918183000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918163000 -0300" stop="20160918183000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Άουγκσμπουργκ-Μάιντς(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918183000 -0300" stop="20160918203000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918183000 -0300" stop="20160918203000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Χέρτα-Σάλκε(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918203000 -0300" stop="20160918223000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918203000 -0300" stop="20160918223000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:ΝέοςΑχαρναϊκός-ΟΦΗ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160918223000 -0300" stop="20160919004500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160918223000 -0300" stop="20160919004500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">SportShow(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919004500 -0300" stop="20160919011500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919004500 -0300" stop="20160919011500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919011500 -0300" stop="20160919033000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919011500 -0300" stop="20160919033000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">SportShow</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919033000 -0300" stop="20160919040000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919033000 -0300" stop="20160919040000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">ΣτιγμιότυπαBundesliga2016-2017E3</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919040000 -0300" stop="20160919060000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919040000 -0300" stop="20160919060000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Αμβούργο-Λάιπτσιχ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919060000 -0300" stop="20160919081500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919060000 -0300" stop="20160919081500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">SportShow</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919081500 -0300" stop="20160919091500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919081500 -0300" stop="20160919091500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">UEFAEuropaLeague-Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919091500 -0300" stop="20160919094500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919091500 -0300" stop="20160919094500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">UEFAChampionsLeagueMagazineE3</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919094500 -0300" stop="20160919114500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919094500 -0300" stop="20160919114500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:ΝέοςΑχαρναϊκός-ΟΦΗ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919114500 -0300" stop="20160919140000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919114500 -0300" stop="20160919140000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">SportShow</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919140000 -0300" stop="20160919160000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919140000 -0300" stop="20160919160000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Χόφενχαϊμ-Βόλφσμπουργκ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919160000 -0300" stop="20160919170000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919160000 -0300" stop="20160919170000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">ΣτιγμιότυπαBundesliga2016-2017</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919170000 -0300" stop="20160919190000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919170000 -0300" stop="20160919190000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Χέρτα-Σάλκε</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919190000 -0300" stop="20160919210000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919190000 -0300" stop="20160919210000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:ΟΚαλύτεροςΑγώναςτηςΕβδομάδας</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919210000 -0300" stop="20160919213000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919210000 -0300" stop="20160919213000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">ΣτιγμιότυπαCopaSudamericana2016</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919213000 -0300" stop="20160919223000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919213000 -0300" stop="20160919223000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">ΣτιγμιότυπαBundesliga2016-2017</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160919223000 -0300" stop="20160920004500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160919223000 -0300" stop="20160920004500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">SportShow(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920004500 -0300" stop="20160920011500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920004500 -0300" stop="20160920011500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Στιγμιότυπα</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920011500 -0300" stop="20160920033000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920011500 -0300" stop="20160920033000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">SportShow</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920033000 -0300" stop="20160920040000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920033000 -0300" stop="20160920040000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">ΣτιγμιότυπαCopaSudamericana2016</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920040000 -0300" stop="20160920060000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920040000 -0300" stop="20160920060000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Κολωνία-Φράιμπουργκ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920060000 -0300" stop="20160920081500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920060000 -0300" stop="20160920081500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">SportShow</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920081500 -0300" stop="20160920101500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920081500 -0300" stop="20160920101500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Καρλσρούη-ΖανκτΠάουλι</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920101500 -0300" stop="20160920121500 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920101500 -0300" stop="20160920121500 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Γκλάντμπαχ-Βέρντερ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920121500 -0300" stop="20160920143000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920121500 -0300" stop="20160920143000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">SportShow</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920143000 -0300" stop="20160920150000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920143000 -0300" stop="20160920150000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">ΣτιγμιότυπαBundesliga2016-2017E3</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920150000 -0300" stop="20160920170000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920150000 -0300" stop="20160920170000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:ΆιντραχτΦρανκφούρτης-Λεβερκούζεν</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920170000 -0300" stop="20160920190000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920170000 -0300" stop="20160920190000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Ντόρτμουντ-Ντάρμσταντ98</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920190000 -0300" stop="20160920210000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920190000 -0300" stop="20160920210000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Μπάγερν-Ίνγκολσταντ</title>
     <category lang="el">Αθλητικά</category>
   </programme>
-  <programme start="20160920210000 -0300" stop="20160920230000 -0300" channel="GR VIP | 0TE SPORT 3 HD">
+  <programme start="20160920210000 -0300" stop="20160920230000 -0300" channel=" 0TE SPORT 3 HD">
     <title lang="el">Ποδόσφαιρο:Βόλφσμπουργκ-Ντόρτμουντ(Ζ)</title>
     <category lang="el">Αθλητικά</category>
   </programme>
